@@ -9,5 +9,13 @@ public class Main {
         rechtangle.Area();
         rechtangle.Umfang();
 
+
+        /*
+        Umfang vom Kreis ist : 31.400000000000002
+        Area from circle is : 78.5
+        Area from rechtangel is: 24
+        Umfang vom Rechtwinkel ist :20
+         */
+
     }
 }
