@@ -10,7 +10,7 @@ public class Rectangel implements Shape{
     }
     @Override
     public void Area() {
-        System.out.println("Area from rechtangel is: "+sideA*sideB);
+        System.out.println("Area from rectangel is: "+sideA*sideB);
     }
     @Override
     public void Umfang() {
