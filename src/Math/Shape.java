@@ -2,7 +2,7 @@ package Math;
 
 public interface Shape {
 
-    void Area();
-    void Umfang();
+    void area();
+    void perimeter();
 
 }
