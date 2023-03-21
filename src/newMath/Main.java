@@ -3,9 +3,10 @@ package newMath;
 public class Main {
     public static void main(String[] args) {
         Shape circle= new Circle(5);
-        Shape rectangle= new Rectangle(10,5);
         circle.area();
         circle.perimeter();
+
+        Shape rectangle= new Rectangle(10,5);
         rectangle.perimeter();
         rectangle.area();
         /*
