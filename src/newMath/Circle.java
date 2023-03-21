@@ -9,13 +9,13 @@ public class Circle implements Shape{
     }
     @Override
     public double area() {
-        System.out.println("Area from circle is "+ radius*radius*3.14);
+        System.out.println("Area from circle is "+ Math.round(radius*radius*3.14*100)/100.);
         return 0;
     }
 
     @Override
     public double perimeter() {
-        System.out.println("Circumference from circle is "+2*radius*3.14);
+        System.out.println("Circumference from circle is "+Math.round(2*radius*3.14*100)/100.);
         return 0;
     }
 }

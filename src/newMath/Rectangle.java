@@ -12,13 +12,13 @@ public class Rectangle implements Shape {
     }
     @Override
     public double area() {
-        area=sideA*sideB;
+        System.out.println(sideA*sideB);
         return area;
     }
 
     @Override
     public double perimeter() {
-        perimeter=2*(sideA+sideB);
+        System.out.println(2*(sideA+sideB));
         return perimeter;
     }
 }
