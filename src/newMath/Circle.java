@@ -15,7 +15,7 @@ public class Circle implements Shape{
 
     @Override
     public double perimeter() {
-        System.out.println("Perimeter from circle is "+2*radius*3.14);
+        System.out.println("Circumference from circle is "+2*radius*3.14);
         return 0;
     }
 }

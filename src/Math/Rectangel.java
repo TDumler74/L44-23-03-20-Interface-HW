@@ -14,7 +14,7 @@ public class Rectangel implements Shape{
     }
     @Override
     public void Umfang() {
-        System.out.println("Umfang vom Rechtwinkel ist :"+2*(sideA+sideB));
+        System.out.println("Perimeter from rectangel is:"+2*(sideA+sideB));
 
     }
 }

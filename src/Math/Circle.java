@@ -14,6 +14,6 @@ public class Circle implements Shape{
 
     @Override
     public void Umfang() {
-        System.out.println("Umfang vom Kreis ist : "+2*3.14*radius);
+        System.out.println("Circumference from circle is: "+2*3.14*radius);
     }
 }

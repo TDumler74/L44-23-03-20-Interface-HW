@@ -13,7 +13,7 @@ public class Main {
         Perimeter from circle is 62.800000000000004
         Area from circle is 314.0
         Perimeter from rectangle is: 26.0
-        Area from rechtangel is: 30.0
+        Area from rectangel is: 30.0
 
          */
 
