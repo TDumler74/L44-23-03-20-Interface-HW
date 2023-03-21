@@ -13,7 +13,7 @@ public class Main {
 
 
         /*
-        Circumference from circle is: 31.400000000000002
+        Circumference from circle is: 31.4
         Area from circle is : 78.5
         Area from rectangle is: 24
         Perimeter from rectangle is:20

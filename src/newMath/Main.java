@@ -10,7 +10,7 @@ public class Main {
         rectangle.area();
         /*
         Area from circle is 78.5
-        Circumference from circle is 31.400000000000002
+        Circumference from circle is 31.4
         Area from rectangle is: 50.0
         Perimeter from rectangle is: 30.0
 
